@@ -1,0 +1,63 @@
+# Authors tracked for arxiv.html (one per line: INSPIRE author query | display name | source)
+# Lines starting with # are ignored. Add or remove people here.
+Frassek, Rouven | R. Frassek | organiser
+Cavaglia, Andrea | A. Cavaglià | organiser
+Fioravanti, Davide | D. Fioravanti | organiser
+Paletta, Chiara | C. Paletta | organiser
+Ravanini, Francesco | F. Ravanini | organiser
+Trombettoni, Andrea | A. Trombettoni | organiser
+Appel, Andrea | A. Appel | Modena 2025
+Ares, Filiberto | F. Ares | Modena 2025
+Benedikter, Niels | N. Benedikter | Modena 2025, Bologna 2026
+Buccheri, Francesco | F. Buccheri | Modena 2025
+Cristani, Daniele | D. Cristani | Modena 2025
+Gavrylenko, Pavlo | P. Gavrylenko | Modena 2025
+Giardina, Cristian | C. Giardinà | Modena 2025, Crossroads 2026
+Guidotti, Riccardo | R. Guidotti | Modena 2025
+Jurgens, Henrik | H. Jürgens | Modena 2025, Crossroads 2026
+Lai, Davide | D. Lai | Modena 2025
+Mannatzu, Michelangelo | M. Mannatzu | Modena 2025, Bologna 2026
+Maric, Vanja | V. Marić | Modena 2025
+Mazzoni, Michele | M. Mazzoni | Modena 2025
+Meineri, Marco | M. Meineri | Modena 2025
+Nesturov, Amir | A. Nesturov | Modena 2025
+Oancia, Giancarlo | G. Oancia | Modena 2025
+Piroli, Lorenzo | L. Piroli | Modena 2025, Bologna 2026
+Pirolo, Francesco | F. Pirolo | Modena 2025
+Rota, Saverio | S. Rota | Modena 2025
+Titov, Nikita | N. Titov | Modena 2025, Bologna 2026
+Toni, Francesca | F. Toni | Modena 2025
+Viscardi, Michele | M. Viscardi | Modena 2025
+Zadnik, Lenart | L. Zadnik | Modena 2025
+Brizio, Nicolo | N. Brizio | Bologna 2026
+Olivi, Francesco | F. Olivi | Bologna 2026
+Maroncelli, Andrea | A. Maroncelli | Bologna 2026
+Tateo, Roberto | R. Tateo | Bologna 2026, Crossroads 2026
+Chalabi, Adam | A. Chalabi | Bologna 2026
+Gori, Giacomo | G. Gori | Bologna 2026
+Rossi, Marco | M. Rossi | Bologna 2026 (Univ. Calabria; check affiliation)
+Fontana, Pierpaolo | P. Fontana | Bologna 2026
+Kade, Moritz | M. Kade | Bologna 2026, Crossroads 2026
+Korchemsky, Gregory | G. Korchemsky | Crossroads 2026
+Prosen, Tomaz | T. Prosen | Crossroads 2026
+Ayyer, Arvind | A. Ayyer | Crossroads 2026
+Cantini, Luigi | L. Cantini | Crossroads 2026
+Colomo, Filippo | F. Colomo | Crossroads 2026
+Cunden, Fabio Deelan | F. D. Cunden | Crossroads 2026
+Dorey, Patrick | P. Dorey | Crossroads 2026
+Gohmann, Frank | F. Göhmann | Crossroads 2026
+Kaufmann, Birgit | B. Kaufmann | Crossroads 2026
+Kaufmann, Ralph | R. Kaufmann | Crossroads 2026
+Kirschner, Roland | R. Kirschner | Crossroads 2026
+Li, Jhih-Huang | J.-H. Li | Crossroads 2026
+Matushko, Maria | M. Matushko | Crossroads 2026
+Pimenta, Rodrigo A. | R. A. Pimenta | Crossroads 2026
+Primi, Nicolo | N. Primi | Crossroads 2026
+Ragoucy, Eric | E. Ragoucy | Crossroads 2026, mini-course 2026
+Serban, Didina | D. Serban | Crossroads 2026
+Trancanelli, Diego | D. Trancanelli | Crossroads 2026
+Trofimova, Anastasiia | A. Trofimova | Crossroads 2026, speaker 2026
+Casini, Francesco | F. Casini | Crossroads 2026 (KU Leuven; INSPIRE name clash)
+Zahra, Ali | A. Zahra | Crossroads 2026 (LPCT Nancy; INSPIRE name clash)
+Ashok, Sujay | S. K. Ashok | speaker 2026
+Hutsalyuk, Arthur | A. Hutsalyuk | speaker 2026
