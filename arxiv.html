@@ -88,6 +88,22 @@
         .authors { font-size: 0.92em; margin-bottom: 6px; }
         .authors b { color: #d81b60; }
         article p { margin: 0; }
+        .ideas h2 { color: #6200ea; }
+        .ideas .disclaimer {
+            font-size: 0.85em;
+            color: #666;
+            text-align: center;
+            margin: -10px 0 18px;
+        }
+        .idea {
+            padding: 12px 0;
+            border-top: 1px solid #e1bee7;
+        }
+        .idea:first-of-type { border-top: none; }
+        .idea h3 { margin: 0 0 6px; font-size: 1.1em; color: #4a148c; }
+        .idea .who { font-size: 0.9em; margin-top: 6px; }
+        .idea .who b { color: #d81b60; }
+        .idea ul { margin: 6px 0 0; padding-left: 22px; }
         .art-note {
             background: #ede7f6;
             border: 2px dashed #6200ea;
@@ -156,6 +172,34 @@
         The comments signed
         <b>IntegraBot 🤖</b> are written by a fictional bot for motivational purposes. They are not from readers, the authors or the organisers.
     </div>
+
+    <section class="ideas">
+        <h2>💡 Ideas for a common project</h2>
+        <p class="disclaimer">Speculative directions suggested by an LLM after reading recent papers of the community. Their novelty has not been checked against the literature.</p>
+
+        <div class="idea">
+            <h3>1. Stochastic dualities as non-invertible symmetries</h3>
+            <p>Stochastic dualities intertwine the generators of two Markov processes. Non-invertible symmetries such as Kramers–Wannier commute with a Hamiltonian without having an inverse, and topological defect lines in CFT play the same role. Intertwining matrix product operators and Yangian intertwiners provide the algebra behind both. Conjecture: stochastic dualities are generalised (non-invertible) symmetries, realised as topological defects. This would give:</p>
+            <ul>
+                <li>a classification of dualities through fusion categories, predicting new ones;</li>
+                <li>a defect-CFT description at criticality;</li>
+                <li>"duality asymmetry" and Mpemba effects for dualities.</li>
+            </ul>
+            <div class="who">Bridges: <b>stochastic duality</b> (Giardinà, Frassek), <b>non-invertible symmetries and entanglement asymmetry</b> (Ares, Mazzoni, Piroli), <b>defects</b> (Meineri, Chalabi, Cavaglià), <b>intertwiners</b> (Kirschner, Ragoucy).</div>
+        </div>
+
+        <div class="idea">
+            <h3>2. A Quantum Spectral Curve for current fluctuations</h3>
+            <p>Current large deviations in exclusion processes are computed with Bethe ansatz and TBA-like functional equations. Is there a finite Riemann–Hilbert formulation, a "Pμ-system", that gives them exactly at any system size, as the QSC does for AdS/CFT? A positive answer would bring the QSC toolbox to probability: high-precision numerics and analytic continuation in the parameters.</p>
+            <div class="who">Bridges: <b>QSC and TBA</b> (Cavaglià, Tateo, Primi, Fioravanti, Ravanini), <b>exclusion processes</b> (Cantini, Ayyer, Trofimova, Frassek), <b>Bethe ansatz</b> (Göhmann, Pimenta, Hutsalyuk).</div>
+        </div>
+
+        <div class="idea">
+            <h3>3. ODE/IM for nonequilibrium steady states</h3>
+            <p>Generalised Gibbs ensembles have recently been obtained from deformed Schrödinger equations. Is there a differential equation whose spectral data gives the steady state of a boundary-driven integrable chain? Its Stokes data would encode the boundary rates, and phase transitions of the steady state would show up as changes in its singularity structure, connecting nonequilibrium physics to Painlevé equations and isomonodromy.</p>
+            <div class="who">Bridges: <b>ODE/IM</b> (Ashok, Tateo, Fioravanti, Rossi), <b>Painlevé and isomonodromy</b> (Gavrylenko), <b>boundary-driven chains and circuits</b> (Prosen, Paletta, Zadnik, Frassek).</div>
+        </div>
+    </section>
 
     <section>
         <h2>AdS/CFT, QSC and defects</h2>
